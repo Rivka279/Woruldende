@@ -1,0 +1,15 @@
+# Woruldende Lemmatisation Approach
+
+Lemmatisation relies on the 'cf' (citation form) column
+provided by ECHOE (Electronic Corpus of Anonymous Homilies
+in Old English, University of Göttingen).
+
+One manual normalisation was applied on top of ECHOE lemmas:
+
+  dryhten -> drihten
+
+This merges two spelling variants of the Old English word
+for 'Lord' that ECHOE treats as separate tokens but which
+represent the same lexeme. Without this fix, Vercelli texts
+(which favour 'dryhten') appeared artificially distant from
+Blickling and Wulfstan texts (which favour 'drihten').

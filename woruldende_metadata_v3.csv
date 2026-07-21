@@ -1,0 +1,20 @@
+text_id,author_group,date_approx,source,corpus,language_manual,corpus_manual
+WHom_SermoLupi_A,Wulfstan,1014,ECHOE 49B.40,Wulfstan_homilies,Old English,Wulfstan
+WHom_SermoLupi_B,Wulfstan,1014,ECHOE 331.27,Wulfstan_homilies,Old English,Wulfstan
+WHom_Antichrist,Wulfstan,1005,ECHOE 49B.34b,Wulfstan_homilies,Old English,Wulfstan
+WHom_SignsDoom,Wulfstan,1005,ECHOE 49B.35,Wulfstan_homilies,Old English,Wulfstan
+BlHom_VII,Anonymous,971,ECHOE 382.7,Blickling,Old English,Anonymous_Blickling
+BlHom_X,Anonymous,971,ECHOE 382.10,Blickling,Old English,Anonymous_Blickling
+BlHom_XI,Anonymous,971,ECHOE 382.11,Blickling,Old English,Anonymous_Blickling
+BlHom_II,Anonymous,971,ECHOE 382.2,Blickling,Old English,Anonymous_Blickling
+BlHom_IV,Anonymous,971,ECHOE 382.4,Blickling,Old English,Anonymous_Blickling
+BlHom_V,Anonymous,971,ECHOE 382.5,Blickling,Old English,Anonymous_Blickling
+VHom_II,Anonymous,980,ECHOE 394.2,Vercelli,Old English,Anonymous_Vercelli
+VHom_IV,Anonymous,980,ECHOE 394.4,Vercelli,Old English,Vercelli_Wulfstan_linked
+VHom_V,Anonymous,980,ECHOE 394.5,Vercelli,Old English,Anonymous_Vercelli
+VHom_IX,Anonymous,980,ECHOE 394.11,Vercelli,Old English,Anonymous_Vercelli
+BHH_CCCC303,Anonymous,975,ECHOE 56.10,Be_Heofonwarum,Old English,Wulfstan_linked_anonymous
+AECHom_I,Aelfric,990,Wikisource,Catholic_homilies,Old English,Aelfric
+AECHom_XV,Aelfric,990,Wikisource,Catholic_homilies,Old English,Aelfric
+AECHom_XXI,Aelfric,995,Wikisource,Catholic_homilies,Old English,Aelfric
+AECHom_XL,Aelfric,995,Wikisource,Catholic_homilies,Old English,Aelfric
