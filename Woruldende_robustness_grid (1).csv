@@ -1,0 +1,12 @@
+variant,n_texts,max_features,silhouette,centroid_dist,nn_purity_mean,nn_purity_min
+all 19 texts,19,50,0.153,"{'Ael-Ano': 0.3, 'Ael-Wul': 0.38, 'Ano-Wul': 0.38}",0.89,0.89
+all 19 texts,19,100,0.188,"{'Ael-Ano': 0.33, 'Ael-Wul': 0.46, 'Ano-Wul': 0.51}",0.86,0.84
+all 19 texts,19,200,0.202,"{'Ael-Ano': 0.4, 'Ael-Wul': 0.54, 'Ano-Wul': 0.54}",0.96,0.95
+all 19 texts,19,300,0.199,"{'Ael-Ano': 0.44, 'Ael-Wul': 0.57, 'Ano-Wul': 0.56}",0.99,0.95
+all 19 texts,19,500,0.192,"{'Ael-Ano': 0.48, 'Ael-Wul': 0.61, 'Ano-Wul': 0.59}",1.0,1.0
+without WHom_SermoLupi_A,18,100,0.137,"{'Ael-Ano': 0.33, 'Ael-Wul': 0.41, 'Ano-Wul': 0.46}",0.88,0.83
+without WHom_SermoLupi_B,18,100,0.158,"{'Ael-Ano': 0.33, 'Ael-Wul': 0.42, 'Ano-Wul': 0.44}",0.89,0.89
+without VHom_V,18,100,0.225,"{'Ael-Ano': 0.38, 'Ael-Wul': 0.47, 'Ano-Wul': 0.53}",1.0,1.0
+without WHom_SermoLupi_A,18,300,0.174,"{'Ael-Ano': 0.44, 'Ael-Wul': 0.55, 'Ano-Wul': 0.55}",1.0,1.0
+without WHom_SermoLupi_B,18,300,0.187,"{'Ael-Ano': 0.44, 'Ael-Wul': 0.55, 'Ano-Wul': 0.54}",1.0,1.0
+without VHom_V,18,300,0.226,"{'Ael-Ano': 0.48, 'Ael-Wul': 0.57, 'Ano-Wul': 0.57}",1.0,1.0
